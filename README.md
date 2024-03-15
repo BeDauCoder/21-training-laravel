@@ -1,2 +1,2 @@
-# -1-laravel-10x
+# 1-laravel-10x
 laravel-10x
